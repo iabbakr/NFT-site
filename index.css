@@ -7,13 +7,16 @@ body{
 }
 header{
     padding: 15px 20px;
-    background: purple;
+    background: #5f29a3;
+    padding: 45px 0 45px 10px;
 
 }
 h1{
+    color: whitesmoke;
 
 }
 h3{
+    color: #d0aaff;
 
 }
 main{
@@ -23,6 +26,6 @@ section{
 
 }
 footer{
-    background: purple;
+    background: #5f29a3;
 
 }
