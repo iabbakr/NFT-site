@@ -35,11 +35,13 @@ section{
 p{
     font-size: 16px;
     color: #2b2831;
+    margin: 0;
 
 }
 h2{
     font-size: 24px;
     color: #2b2831;
+    margin: 0;
 }
 footer{
     background: #5f29a3;
