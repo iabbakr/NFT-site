@@ -48,8 +48,7 @@ section{
 .imgs{
     display: flex;
     flex-direction: row;
-    height: 350px;
-    width: 100%;
+    justify-content: space-between;
 }
 .s2-imgs{
     width: 300px;
