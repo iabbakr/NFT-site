@@ -25,7 +25,11 @@ h3{
     color: #d0aaff;
     font-size: 20px;
     margin: 0;
+}
 
+h2{
+    font-size: 24px;
+    margin: 0;
 }
 main{
 
@@ -33,13 +37,17 @@ main{
 section{
     padding: 45px 0;
 }
+/* images */
 .img{
     width: 100%;
 }
-h2{
-    font-size: 24px;
-    margin: 0;
+.imgs{
+    display: flex;
+    flex-direction: row;
+
 }
+
+/* links */
 a{
     color: #ef5839;
     text-decoration: underline dotted;
