@@ -49,6 +49,7 @@ section{
     display: flex;
     flex-direction: row;
     height: 350px;
+    width: 100%;
 
 
 }
