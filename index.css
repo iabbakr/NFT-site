@@ -50,10 +50,11 @@ section{
     flex-direction: row;
     height: 350px;
     width: 100%;
-
-
 }
-
+.s2-imgs{
+    width: 300px;
+    border-radius: 4.6px;
+}
 /* links */
 a{
     color: #ef5839;
