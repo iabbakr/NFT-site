@@ -37,6 +37,10 @@ main{
 section{
     padding: 45px 0;
 }
+.s2{
+    background-color: #5f29a3;
+    color: whitesmoke;
+}
 /* images */
 .img{
     width: 100%;
@@ -44,6 +48,8 @@ section{
 .imgs{
     display: flex;
     flex-direction: row;
+    height: 200px;
+
 
 }
 
