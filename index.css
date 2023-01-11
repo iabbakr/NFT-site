@@ -48,7 +48,7 @@ section{
 .imgs{
     display: flex;
     flex-direction: row;
-    height: 200px;
+    height: 350px;
 
 
 }
