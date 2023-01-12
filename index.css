@@ -75,4 +75,14 @@ footer{
     border-radius: 4.6px;
     font-weight: 500;
     text-decoration: none;
+
+}
+#buy{
+    color:whitesmoke;
+    background-color: #5f29a3;
+}
+#info{
+    color:#5f29a3;
+    background-color: whitesmoke;
+
 }
