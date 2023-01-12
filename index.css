@@ -75,6 +75,7 @@ footer{
     border-radius: 4.6px;
     font-weight: 500;
     text-decoration: none;
+    border: none;
 
 }
 #buy{
@@ -84,5 +85,4 @@ footer{
 #info{
     color:#5f29a3;
     background-color: whitesmoke;
-
 }
