@@ -64,7 +64,14 @@ a:hover{
     color: #d4b44c;
 }
 footer{
-    color: 5f29a3;
+    color: #5f29a3;
     text-align: center;
+    padding: 45px 0;
 
+}
+
+section a{
+    padding: 10px 19px;
+    border-radius: 4.6px;
+    font-weight: 500;
 }
