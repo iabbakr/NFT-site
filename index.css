@@ -77,7 +77,7 @@ footer{
     color:#5f29a3;
     background-color: whitesmoke;
 }
-.btn{
+.lnk{
     padding: 10px 19px;
     border-radius: 4.6px;
     font-weight: 500;
@@ -85,7 +85,7 @@ footer{
     border: none;
 
 }
-.btn:hover{
+.lnk:hover{
     background-color: #f3e885;
     color: #2b283a;
 }
