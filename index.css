@@ -78,6 +78,10 @@ footer{
     border: none;
 
 }
+.btn:hover{
+    background-color: #f3e885;
+    color: #2b283a;
+}
 #buy{
     color:whitesmoke;
     background-color: #5f29a3;
@@ -86,3 +90,4 @@ footer{
     color:#5f29a3;
     background-color: whitesmoke;
 }
+
