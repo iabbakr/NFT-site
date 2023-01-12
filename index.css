@@ -73,15 +73,14 @@ footer{
     color:whitesmoke;
     background-color: #5f29a3;
 }
-#buy:hover{
+#buy:hover,
+#abus:hover,
+#ctct:hover,
+#info:hover{
     background-color: #f3e885;
     color: #2b283a;
 }
-#info{
-    color:#5f29a3;
-    background-color: whitesmoke;
-}
-#abus, #ctct{
+#abus, #ctct, #info{
     background-color:whitesmoke;
     color: #5f29a3;
 
