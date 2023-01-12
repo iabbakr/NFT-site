@@ -69,16 +69,6 @@ footer{
     padding: 45px 0;
 
 }
-
-.btn{
-    padding: 10px 19px;
-    border-radius: 4.6px;
-    font-weight: 500;
-    text-decoration: none;
-    border: none;
-
-}
-
 #buy{
     color:whitesmoke;
     background-color: #5f29a3;
@@ -86,6 +76,14 @@ footer{
 #info{
     color:#5f29a3;
     background-color: whitesmoke;
+}
+.btn{
+    padding: 10px 19px;
+    border-radius: 4.6px;
+    font-weight: 500;
+    text-decoration: none;
+    border: none;
+
 }
 .btn:hover{
     background-color: #f3e885;
