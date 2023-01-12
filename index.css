@@ -48,7 +48,6 @@ section{
 }
 .imgs{
     display: flex;
-    flex-direction: row;
     justify-content: space-between;
 }
 .s2-imgs{
