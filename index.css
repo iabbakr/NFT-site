@@ -81,6 +81,11 @@ footer{
     color:#5f29a3;
     background-color: whitesmoke;
 }
+#abus, #ctct{
+    background-color:whitesmoke;
+    color: #5f29a3;
+
+}
 .lnk{
     padding: 10px 19px;
     border-radius: 4.6px;
