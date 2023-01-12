@@ -73,6 +73,10 @@ footer{
     color:whitesmoke;
     background-color: #5f29a3;
 }
+#buy:hover{
+    background-color: #f3e885;
+    color: #2b283a;
+}
 #info{
     color:#5f29a3;
     background-color: whitesmoke;
@@ -84,9 +88,5 @@ footer{
     text-decoration: none;
     border: none;
 
-}
-.lnk:hover{
-    background-color: #f3e885;
-    color: #2b283a;
 }
 
